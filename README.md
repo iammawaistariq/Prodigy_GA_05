@@ -1,5 +1,6 @@
 # Neural Style Transfer
 A Python implementation of Neural Style Transfer using TensorFlow and TensorFlow Hub. This project allows you to apply the artistic style of one image to another image.
+Neural Style Transfer is an AI technique that combines two images - a content image and a style image - to create a new image that maintains the basic structure of the content image while adopting the artistic style of the style image. For example, it can make a regular photograph look like it was painted by Van Gogh or drawn in a comic book style. This is achieved using deep neural networks that separate and recombine the content features (like shapes and objects) from one image with the style features (like colors, textures, and brush strokes) from another. The technique was first introduced in 2015 and has since become a popular tool for creating artistic transformations of photographs and exploring the intersection of AI and art.
 # Overview
 Neural Style Transfer is a technique that takes two images — a "content" image and a "style reference" image (such as a famous painting) — and blends them together so the output image looks like the content image, but "painted" in the style of the style reference image.
 
