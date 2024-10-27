@@ -40,8 +40,10 @@ The implementation consists of three main components:
 - Automatic image preprocessing
 - Visual comparison of results
 
+
 ## The program takes:
 - A content image (e.g., a photograph)
 - A style image (e.g., a painting)
 - **And produces:** A stylized image combining both
 
+![download (1)](https://github.com/user-attachments/assets/df6db2bb-55ca-465a-8de0-ea91cec6b4b7)
